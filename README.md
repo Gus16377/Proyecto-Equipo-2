@@ -6,4 +6,4 @@
 5. En la clase ConexionBD haga el cambio necesario en la lineal "USER" y "PASS" con sus respectivos usuario y contraseña de su base de datos.
 6. Descargue e implemetnte las dependecias nesesarias para evitar errores en librerias.
 7. Inicie el programa "main".
-8. En loggin puede usar el usario admin y la contraseña admin123 que estan por defecto en la base de datos.
+8. En el loggin puede usar el usario admin y la contraseña admin123 que estan por defecto en la base de datos.
